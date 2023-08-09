@@ -29,7 +29,7 @@
     "@form8ion/eslint-config-cypress": "1.3.36"
   },
   "devDependencies": {
-    "@pragmatic-divops/commitlint-config": "1.0.39",
+    "@pragmatic-divops/commitlint-config": "1.0.40",
     "@pragmatic-divops/eslint-config": "1.0.78",
     "@pragmatic-divops/remark-preset": "3.0.4",
     "ban-sensitive-files": "1.9.19",
