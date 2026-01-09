@@ -23,6 +23,7 @@
     "generate:md": "remark . --output",
     "lint:sensitive": "ban",
     "lint:js": "eslint .",
+    "lint:js:fix": "run-s 'lint:js -- --fix'",
     "lint:peer": "npm ls >/dev/null",
     "lint:publish": "publint --strict",
     "prepare": "husky install"
