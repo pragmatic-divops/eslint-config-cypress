@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@pragmatic-divops"
+  ]
+}
