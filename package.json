@@ -3,20 +3,13 @@
   "description": "Shareable config for ESLint for projects that use Cypress",
   "license": "MIT",
   "version": "0.0.0-semantically-released",
-  "files": [
-    "example.js",
-    "index.js"
-  ],
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
-  },
   "runkitExampleFilename": "./example.js",
   "type": "commonjs",
+  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org)",
   "repository": "pragmatic-divops/eslint-config-cypress",
   "bugs": "https://github.com/pragmatic-divops/eslint-config-cypress/issues",
   "homepage": "https://npm.im/@pragmatic-divops/eslint-config-cypress",
-  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org)",
+  "runkitExampleFilename": "./example.js",
   "scripts": {
     "test": "npm-run-all --print-label --parallel lint:*",
     "lint:lockfile": "lockfile-lint",
@@ -28,6 +21,14 @@
     "lint:peer": "npm ls >/dev/null",
     "lint:publish": "publint --strict",
     "prepare": "husky install"
+  },
+  "files": [
+    "example.js",
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
   },
   "packageManager": "npm@11.7.0+sha512.c22099a6fff8d5b2286c2a09df5352b4858a7c0c716320f58989d60ad8b29ecf2ce6fdfe97ccb41c23ffb1272e1fa079f868487dd6b81d02a2a9e199c095a117",
   "dependencies": {
