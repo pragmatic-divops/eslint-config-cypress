@@ -3,7 +3,6 @@
   "description": "Shareable config for ESLint for projects that use Cypress",
   "license": "MIT",
   "version": "0.0.0-semantically-released",
-  "runkitExampleFilename": "./example.js",
   "type": "commonjs",
   "author": "Matt Travi <npm@travi.org> (https://matt.travi.org)",
   "repository": "pragmatic-divops/eslint-config-cypress",
