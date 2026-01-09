@@ -91,7 +91,7 @@ $ npm test
 
 [github-actions-ci-link]: https://github.com/pragmatic-divops/eslint-config-cypress/actions?query=workflow%3A%22Node.js+CI%22+branch%3Amaster
 
-[github-actions-ci-badge]: https://github.com/pragmatic-divops/eslint-config-cypress/workflows/Node.js%20CI/badge.svg
+[github-actions-ci-badge]: https://img.shields.io/github/actions/workflow/status/pragmatic-divops/eslint-config-cypress/node-ci.yml.svg?branch=master&logo=github
 
 [license-link]: LICENSE
 
