@@ -5,6 +5,7 @@ Shareable config for ESLint for projects that use Cypress, which extends [@form8
 <!--status-badges start -->
 
 [![Node CI Workflow Status][github-actions-ci-badge]][github-actions-ci-link]
+![SLSA Level 2][slsa-badge]
 
 <!--status-badges end -->
 
@@ -99,3 +100,5 @@ $ npm test
 [npm-link]: https://www.npmjs.com/package/@pragmatic-divops/eslint-config-cypress
 
 [npm-badge]: https://img.shields.io/npm/v/@pragmatic-divops/eslint-config-cypress.svg
+
+[slsa-badge]: https://slsa.dev/images/gh-badge-level2.svg

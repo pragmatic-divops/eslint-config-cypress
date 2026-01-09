@@ -8,7 +8,8 @@
     "index.js"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "runkitExampleFilename": "./example.js",
   "type": "commonjs",
