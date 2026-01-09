@@ -11,6 +11,7 @@
     "access": "public"
   },
   "runkitExampleFilename": "./example.js",
+  "type": "commonjs",
   "repository": "pragmatic-divops/eslint-config-cypress",
   "bugs": "https://github.com/pragmatic-divops/eslint-config-cypress/issues",
   "homepage": "https://npm.im/@pragmatic-divops/eslint-config-cypress",
