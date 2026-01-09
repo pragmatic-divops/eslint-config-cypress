@@ -95,10 +95,10 @@ $ npm test
 
 [license-link]: LICENSE
 
-[license-badge]: https://img.shields.io/github/license/pragmatic-divops/eslint-config-cypress.svg
+[license-badge]: https://img.shields.io/github/license/pragmatic-divops/eslint-config-cypress.svg?logo=opensourceinitiative
 
 [npm-link]: https://www.npmjs.com/package/@pragmatic-divops/eslint-config-cypress
 
-[npm-badge]: https://img.shields.io/npm/v/@pragmatic-divops/eslint-config-cypress.svg
+[npm-badge]: https://img.shields.io/npm/v/@pragmatic-divops/eslint-config-cypress?logo=npm
 
 [slsa-badge]: https://slsa.dev/images/gh-badge-level2.svg
